@@ -1,2 +1,5 @@
 # learn-fluent-python
-scripts for Fluent Python 
+
+《流畅的Python》——Luciano Ramalho
+
+示例脚本
